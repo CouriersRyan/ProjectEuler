@@ -14,7 +14,6 @@ public class Euler4 {
 				int k = 0;
 				while(temp != 0){
 						palindrome[k] = temp % 10;
-						temp -= temp % 10;
 						temp /= 10;
 						k++;
 				}
