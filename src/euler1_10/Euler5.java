@@ -15,5 +15,5 @@ public class Euler5 {
 		}
 		System.out.println(n);
 	}
-
+	
 }
